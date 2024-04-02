@@ -16,7 +16,12 @@ Discord-IP-Logger-main/
 └── favicon.ico # Favicon for the HTML page.
 
 ## Setup Instructions
-
+- Star this reposotory (very important)
+- Download the files by saving code
+- edit config.js
+- add your own webhook
+- host it yourself!
+  
 ### Requirements
 - A Discord server where you have permissions to create webhooks.
 - Basic understanding of JavaScript and HTML.
@@ -31,7 +36,7 @@ Discord-IP-Logger-main/
 
 3. **Deploy**
    - For educational purposes, you can open `index.html` locally in a browser to see how it works.
-   - For a live demonstration, deploy these files to a web server or a service like GitHub Pages.
+   - For a live demonstration, deploy these files to a web server or a service like GitHub Pages or Vercel.
 
 4. **Test**
    Access the page hosted by `index.html` and check your Discord webhook for logged IP information.
